@@ -137,31 +137,7 @@ const goToSection = (section) => {
 </div>
 
 
-
-<div class="previous years awards">
-    <h1 class="noUnderscore">Previous Year AwardsN</h1>
-    
-    <h2 class="noUnderscore">Years</h2>
-    
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(one)}>2025:</h3>
-     
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(two)}>2024</h3>
-  
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(three)}>2023</h3>
-   
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(four)}>2022</h3>
-  
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(five)}>2021</h3>
-    
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(six)}>2020</h3>
-   
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(seven)}>2019</h3>
-
-	<h3 class="noUnderscore clickable" onclick={() => goToSection(eight)}>2018</h3>
-    
-    <hr />
-
-<h3 bind:this={one}>2025</h3>
+<h3>2025</h3>
     <p>Season 2025:</p>
 
     <ol>
@@ -170,7 +146,7 @@ const goToSection = (section) => {
         <li>Spud: Mario</li>
     </ol>
 
-<h3 bind:this={two}>2024</h3>
+<h3>2024</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -179,7 +155,7 @@ const goToSection = (section) => {
         <li>Spud: Bgar</li>
     </ol>
 
-<h3 bind:this={three}>2023</h3>
+<h3>2023</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -188,7 +164,7 @@ const goToSection = (section) => {
         <li>Spud: Tim</li>
     </ol>
 
-<h3 bind:this={four}>2022</h3>
+<h3>2022</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -197,7 +173,7 @@ const goToSection = (section) => {
         <li>Spud: Zach</li>
     </ol>
 
-<h3 bind:this={five}>2021</h3>
+<h3>2021</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -206,7 +182,7 @@ const goToSection = (section) => {
         <li>Spud: Mario</li>
     </ol>
 
-<h3 bind:this={six}>2020</h3>
+<h3>2020</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -215,7 +191,7 @@ const goToSection = (section) => {
         <li>Spud: Blake</li>
     </ol>
 
-<h3 bind:this={seven}>2019</h3>
+<h3>2019</h3>
     <p>Season 2024:</p>
 
     <ol>
@@ -224,7 +200,7 @@ const goToSection = (section) => {
         <li>Spud: Kevin</li>
     </ol>
 
-<h3 bind:this={eight}>2018</h3>
+<h3>2018</h3>
     <p>Season 2024:</p>
 
     <ol>
