@@ -156,7 +156,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2023</h3>
-    <p>Season 2024:</p>
+    <p>Season 2023:</p>
 
     <ol>
         <li>Champion: Zach</li>
@@ -165,7 +165,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2022</h3>
-    <p>Season 2024:</p>
+    <p>Season 2022:</p>
 
     <ol>
         <li>Champion: Steven/Tyler - Tie</li>
@@ -174,7 +174,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2021</h3>
-    <p>Season 2024:</p>
+    <p>Season 2021:</p>
 
     <ol>
         <li>Champion: Ryan</li>
@@ -183,7 +183,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2020</h3>
-    <p>Season 2024:</p>
+    <p>Season 2020:</p>
 
     <ol>
         <li>Champion: Troy</li>
@@ -192,7 +192,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2019</h3>
-    <p>Season 2024:</p>
+    <p>Season 2019:</p>
 
     <ol>
         <li>Champion: Justin</li>
@@ -201,7 +201,7 @@ const goToSection = (section) => {
     </ol>
 
 <h3>2018</h3>
-    <p>Season 2024:</p>
+    <p>Season 2018:</p>
 
     <ol>
         <li>Champion: Kevin</li>
