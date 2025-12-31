@@ -38,7 +38,7 @@ const goToSection = (section) => {
 		text-align: center;
 	}
 
-	.awards {
+	.previousawards {
         position: relative;
         z-index: 1;
         width: 92%;
@@ -136,7 +136,7 @@ const goToSection = (section) => {
 	{/await}
 </div>
 
-
+<div class="previousawards">
 <h3>2025</h3>
     <p>Season 2025:</p>
 
@@ -208,3 +208,4 @@ const goToSection = (section) => {
         <li>Runner-Up: Tyler</li>
         <li>Spud: Matt</li>
     </ol>
+</div>
