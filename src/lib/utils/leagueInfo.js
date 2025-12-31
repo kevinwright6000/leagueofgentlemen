@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The League of Gentlemen is a storied league dating back to 2012.</p>
+  <p>The League of Gentlemen was formed from the ashes of a defunct league back in 2012.</p>
   <p>After 13 years of existing. The league is being reinvented.</p>
   <p>No longer will we live in a facebook chat and the NFL site.</p>
   <p>The League of Gentlemen will have a new home here, connected to the sleeper app for fantasy team management.</p>
